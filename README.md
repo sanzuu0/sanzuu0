@@ -2,7 +2,7 @@ Hi 👋, My name is Egor
 ====================
 
 * 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [egnv.main@gmail.com](mailto:egnv.work@gmail.com)
+* ✉️  You can contact me at [egnv.work@gmail.com](mailto:egnv.work@gmail.com)
 * 🚀  I'm currently working on a personal project
 * 🤝  I'm open to collaborating
 
