@@ -2,7 +2,7 @@ Hi 👋, My name is Egor
 ====================
 
 * 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [egnv.main@gmail.com](mailto:egnv.main@gmail.com)
+* ✉️  You can contact me at [egnv.main@gmail.com](mailto:egnv.work@gmail.com)
 * 🚀  I'm currently working on a personal project
 * 🤝  I'm open to collaborating
 
@@ -12,7 +12,7 @@ Hi 👋, My name is Egor
   <a href="https://t.me/xPoncho" target="_blank" rel="noreferrer"> <img alt=" | Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
   <a href="https://vk.com/xPonch0" target="_blank" rel="noreferrer"> <img  alt="egormit | VK" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
   <a href="https://www.linkedin.com/in/egor-gridnev-625024327/" target="_blank" rel="noreferrer"> <img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/> </a>
-   <a href="mailto:egnv.main@gmail.com" target="_blank" rel="noreferrer"> <img  width="40px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
+   <a href="mailto:egnv.work@gmail.com" target="_blank" rel="noreferrer"> <img  width="40px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
