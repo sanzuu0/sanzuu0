@@ -5,16 +5,15 @@ Hi 👋, My name is Egor
 * 🚀  I'm currently working on a personal project
 * 🤝  I'm open to collaborating
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
-  <a href="https://t.me/xPoncho" target="_blank" rel="noreferrer"> <img alt=" | Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
-  <a href="https://vk.com/xPonch0" target="_blank" rel="noreferrer"> <img  alt="egormit | VK" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
-  <a href="https://www.linkedin.com/in/egor-gridnev-625024327/" target="_blank" rel="noreferrer"> <img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/> </a>
-   <a href="mailto:egnv.work@gmail.com" target="_blank" rel="noreferrer"> <img  width="40px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
+    <a href="https://t.me/xPoncho" target="_blank" rel="noreferrer"> <img alt=" | Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+    <a href="https://www.linkedin.com/in/egor-gridnev-625024327/" target="_blank" rel="noreferrer"> <img  width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/> </a>
+    <a href="mailto:egnv.work@gmail.com" target="_blank" rel="noreferrer"> <img  width="40px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -34,6 +33,8 @@ Hi 👋, My name is Egor
 </p>
 </br>
 </br>
+
+<h3>Statistic</h3>
 
 <p align="center"> 
   <a href="https://github.com/xPoncho" align="center">
