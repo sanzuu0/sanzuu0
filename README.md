@@ -17,6 +17,14 @@ Hi 👋, My name is Egor
 
 <h3 align="left">Connect with me</h3>
 
+<p>
+    <a href="https://t.me/xPoncho" target="_blank" rel="noreferrer" style="margin: 0 10px;">
+        <img src="icons/tg-test.jpg" alt="Telegram" width="40" height="40" style="border-radius: 10px; background-color: #f0f0f0; padding: 5px;"/>
+    </a>
+</p>
+
+
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%;">
     <a href="https://t.me/xPoncho" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0;">
         <div style="display: flex; align-items: center; justify-content: center; background-color: #f0f0f0; border-radius: 10px; padding: 2px; width: 50px; height: 50px;">
