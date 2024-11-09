@@ -88,10 +88,10 @@ Hi 👋, My name is Egor
 <h3>Statistic</h3>
 
 <p align="center"> 
-    <a href="https://github.com/xPoncho" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPoncho&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <a href="https://github.com/sanzuu0" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzuu0&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
     </a>
-    <a href="http://www.github.com/xPoncho">
+    <a href="http://www.github.com/sanzuu0">
         <img src="https://github-readme-stats.vercel.app/api?username=sanzuu0&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sanzuu0's GitHub stats" />
     </a>    
 </p>
