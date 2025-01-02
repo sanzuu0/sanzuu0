@@ -2,7 +2,7 @@ Hi 👋, My name is Egor
 =============
 
 <h4>
-    I'm 👨‍💻Java Developer & Software Engineer and I like to:
+    I'm 👨‍💻Golang Developer & Software Engineer and I like to:
 </h4>
 
 - writing high-load applications
@@ -33,18 +33,18 @@ Hi 👋, My name is Egor
 <h3 align="left">Languages</h3>
 
 <p>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin: 0 3px;"> 
+        <img src="icons/golang-logo.png" alt="golang" width="50" height="50"/> 
+    </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 0 3px;"> 
         <img src="icons/java-logo.png" alt="java" width="50" height="50"/> 
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin: 0 3px;"> 
-        <img src="icons/python-logo.png" alt="python" width="50" height="50"/> 
     </a>
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="margin: 0 3px;"> 
         <img src="icons/cpp-logo.png" alt="cpp" width="50" height="50"/> 
     </a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer" style="margin: 0 3px;"> 
-        <img src="icons/golang-logo.png" alt="golang" width="50" height="50"/> 
-    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin: 0 3px;"> 
+        <img src="icons/python-logo.png" alt="python" width="50" height="50"/> 
+    </a> 
 </p>
 
 
