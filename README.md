@@ -2,7 +2,7 @@ Hi 👋, My name is Egor
 =============
 
 <h4>
-    I'm 👨‍💻Golang Developer & Software Engineer and I like to:
+    I'm 👨‍💻Software Engineer and I like to:
 </h4>
 
 - writing high-load applications
