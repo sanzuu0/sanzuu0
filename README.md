@@ -21,9 +21,6 @@ I'm a software engineer focused on building production-ready systems.
     <a href="https://www.linkedin.com/in/egor-gridnev-625024327/" target="_blank" rel="noreferrer" style="margin: 0 3px;">
         <img src="icons/linkedin-logo.png" alt="LinkedIn" width="50" height="50"/>
     </a>
-    <a href="mailto:egor.gridnef@gmail.com" target="_blank" rel="noreferrer" style="margin: 0 3px;">
-        <img src="icons/mail-logo.png" alt="Email" width="50" height="50"/>
-    </a>
 </p>
 
 
