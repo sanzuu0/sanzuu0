@@ -1,3 +1,5 @@
+# Hi 👋, I'm Egor — System Engineer & Architect
+
 ## About me
 
 Software engineer focused on building production-ready systems.
