@@ -1,19 +1,16 @@
-Hi 👋, My name is Egor
+Hi 👋, I'm Egor — System Engineer & Architect
 =============
 
-<h4>
-    I'm 👨‍💻Software Engineer and I like to:
-</h4>
+<h3>About me</h3>
+I'm a software engineer focused on building production-ready systems.
 
-- writing high-load applications
-- working with cybersecurity systems
-- write clean and understandable code
+<h3>My key interests:</h3>
 
-<h4>
-  I'm currently working on a personal project 🚀<br><br>
-  I'm open to collaborating 🤝
-</h4>
-
+- System architecture & backend development
+- Machine Learning in production environments
+- Security-first engineering
+- DevOps & Infrastructure
+- Algo-Trading & Data-Intensive Systems
 
 <h3 align="left">Connect with me</h3>
 
