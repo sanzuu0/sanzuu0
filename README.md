@@ -12,7 +12,7 @@ I'm a software engineer focused on building production-ready systems.
 - DevOps & Infrastructure
 - Algo-Trading & Data-Intensive Systems
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p>
     <a href="https://t.me/sanzuu0" target="_blank" rel="noreferrer" style="margin: 0 3px;">
@@ -27,7 +27,7 @@ I'm a software engineer focused on building production-ready systems.
 </p>
 
 
-<h3>Statistic</h3>
+<h3>Statistic:</h3>
 
 <p align="center"> 
     <a href="https://github.com/sanzuu0" align="center">
