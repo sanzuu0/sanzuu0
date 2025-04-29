@@ -11,7 +11,6 @@ Software engineer focused on building production-ready systems.
 - Machine Learning in production environments
 - Security-first engineering
 - DevOps & Infrastructure
-- Algo-Trading & Data-Intensive Systems
 
 
 ## Connect with me
