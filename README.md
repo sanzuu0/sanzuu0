@@ -20,10 +20,3 @@ Software engineer focused on building production-ready systems.
 - 📧 Email → egor.gridnef@gmail.com
 
 
-## GitHub Stats 
-
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzuu0&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sanzuu0&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" />
-</p>
-
