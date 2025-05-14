@@ -1,4 +1,4 @@
-# Hi 👋, I'm Egor — System Engineer & Architect
+# Hi 👋, I'm Egor — Software Engineer
 
 ## About me
 
